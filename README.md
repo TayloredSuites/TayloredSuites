@@ -1,6 +1,6 @@
 ### Hi 👋 
 
-With an engineering background, my transition into data analysis has been technically hitch free. I have learned about data analysis and have some repositories to show a bit of that. My favored tools of the trade are Jupyter Notebook, PostgeSQL, Python, and its libraries such as NumPy, SciPy, Seaborn, and the ubiquitous Matplotlib. I am currently working on more projects to showcase my learning development. I am open to collaborations on projects and internships, as well as suggestions and input on my repositories.
+With an engineering background, my transition into data analysis has been technically hitch free. I have learned about data analysis and have some repositories to show a bit of that. My favored tools of the trade are Jupyter Notebook, PostgeSQL, Python, and its libraries such as NumPy, SciPy, Seaborn, and the ubiquitous Matplotlib. Recently I received my baptism of Power BI and Tableau. I am currently working on more projects to showcase my learning development. I am open to collaborations on projects and internships, as well as suggestions and input on my repositories.
 
 Entering the tech world has been a priority for me in the last year, and here I am, data analyst and machine learning enthusiast.
 
