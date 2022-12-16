@@ -8,6 +8,7 @@ Ask me more about my skills if you are in need of:
 
 - a remote ERP administrator/consultant
 - data analyst 
+- Android engineer
 - or ghost writer
 
 Those are my superpowers for now. Although you may be more interested in reading my anime reviews or keeping track of my android development progress 😄😄
